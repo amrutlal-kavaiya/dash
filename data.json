@@ -1,0 +1,74 @@
+{
+    "analysis_results": [
+      {
+        "Competency": "Compliance",
+        "Skill Group": "Sales",
+        "LTBDR Weight": "Auto Pass",
+        "GCP NB Weight": "Auto Pass",
+        "GWS AM Weight": "Auto Pass",
+        "GWS NB Weight": "Auto Pass",
+        "GCP CTA Weight": "Auto Pass",
+        "Observations": "N/A"
+      },
+      {
+        "Competency": "Customer Focus",
+        "Skill Group": "Introduction & Agenda Setting",
+        "LTBDR Weight": "1%",
+        "GCP NB Weight": "1%",
+        "GWS AM Weight": "1%",
+        "GWS NB Weight": "1%",
+        "GCP CTA Weight": "1%",
+        "Observations": "BD rep failed to introduce himself fully and there was no branding done."
+      },
+      {
+        "Competency": "Customer Focus",
+        "Skill Group": "Communication",
+        "LTBDR Weight": "2%",
+        "GCP NB Weight": "2%",
+        "GWS AM Weight": "2%",
+        "GWS NB Weight": "2%",
+        "GCP CTA Weight": "2%",
+        "Observations": "While the language barrier presented challenges, both sides worked to understand each other. Active listening skills could be improved on both sides."
+      },
+      {
+        "Competency": "Sales Process",
+        "Skill Group": "Uncovering Needs with Discovery Questions",
+        "LTBDR Weight": "15%",
+        "GCP NB Weight": "10%",
+        "GWS AM Weight": "15%",
+        "GWS NB Weight": "10%",
+        "GCP CTA Weight": "15%",
+        "Observations": "BD rep did ask some clarifying questions but could have explored the customer's needs more deeply, particularly regarding their existing Dropbox usage."
+      },
+      {
+        "Competency": "Product Knowledge",
+        "Skill Group": "Value Proposition Pitch and Product Knowledge",
+        "LTBDR Weight": "40%",
+        "GCP NB Weight": "45%",
+        "GWS AM Weight": "40%",
+        "GWS NB Weight": "45%",
+        "GCP CTA Weight": "40%",
+        "Observations": "BD rep effectively showcased the Google Cloud features and explained the benefits, addressing the customer's recording and AI needs."
+      },
+      {
+        "Competency": "Sales Process",
+        "Skill Group": "Call Control & Closing",
+        "LTBDR Weight": "15%",
+        "GCP NB Weight": "20%",
+        "GWS AM Weight": "15%",
+        "GWS NB Weight": "20%",
+        "GCP CTA Weight": "15%",
+        "Observations": "While the BD rep didn't close a deal, they maintained a professional demeanor and offered alternative solutions, leaving the door open for future contact."
+      },
+      {
+        "Competency": "Sales Process",
+        "Skill Group": "Opportunity Creation & Data Hygiene",
+        "LTBDR Weight": "12%",
+        "GCP NB Weight": "10%",
+        "GWS AM Weight": "12%",
+        "GWS NB Weight": "10%",
+        "GCP CTA Weight": "12%",
+        "Observations": "BD rep gathered information about the customer's current spend and identified potential upsell opportunities"
+      }
+    ]
+  }
